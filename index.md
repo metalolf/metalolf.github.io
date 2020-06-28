@@ -7,7 +7,8 @@ Mein Lieblingscharakter hat eine ganz besondere Geschichte. Es geht um Unterdrü
 
 ## Berühmte Sätze
 > I have spoken!
-***Kuiil*** [1](https://en.wikipedia.org/wiki/Kuiil)
+
+***[Kuiil](https://en.wikipedia.org/wiki/Kuiil)***
 
 ## Interessante Fakten
 * Kuiil ist technisch sehr begabt
