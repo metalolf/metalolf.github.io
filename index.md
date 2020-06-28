@@ -1,5 +1,6 @@
 # open HPI - Let's Git Hausaufgabe
 ## Homepage zum Lieblingscharakter
 
-***Platzhalter. Text später***
+Mein Lieblingscharakter hat eine ganz besondere Geschichte. Es geht um Unterdrückung, Vertrauen, Loyalität und Aufopferung.
 
+I have spoken! - ***Kuiil***
