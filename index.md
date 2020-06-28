@@ -5,9 +5,9 @@ Mein Lieblingscharakter hat eine ganz besondere Geschichte. Es geht um Unterdrü
 
 ## Berühmte Sätze
 > I have spoken!
-***Kuiil***
+***Kuiil*** [1](https://en.wikipedia.org/wiki/Kuiil)
 
-## Interessante FAkten
+## Interessante Fakten
 * Kuiil ist technisch sehr begabt
 * Die Maske der Schauspielerin wird durch 3 Fernbedienungen gesteuert
 * Nick Nolte spricht den Charakter in OV
